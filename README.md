@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/fb832d90-889c-4403-bd78-9439575817d2)
 
 
-Какие-то из доменов попали в базу фишинга/malvare и т.п. Захотелось найти эти домены.
+Какие-то из доменов попали в базу фишинга/malware и т.п. Захотелось найти эти домены.
 
 Ручками проверить можно тут - https://transparencyreport.google.com/safe-browsing/search?url=riverbum.com
 
